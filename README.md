@@ -93,7 +93,7 @@ This project aims to analyse DNA codon usage frequencies across various biologic
 <br>Trained few basic and few advanced machine learning models to perform multi-class classification:
 <br><br>**Basic models used:**
 1. Logistic Regression
-2. K-Nearest Neighbors (KNN) with default parameters
+2. K-Nearest Neighbors (KNN)
 3. Random Forest (RF)  
 4. Support Vector Machine (SVM) with both linear and RBF (non-linear) kernels.  
 5. Naive Bayes (NB) 
