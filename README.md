@@ -73,7 +73,7 @@ This project aims to analyse DNA codon usage frequencies across various biologic
 
 
 **Feature Engineering:**
-<br>Used PCA with scatter plot results to visualize the variance explained by principal components or other patterns for reduced dimensions. But since new PCA components are created using all features, there could be a possibility of data loss and would require transforming input features to PCA components again for prediction. Hence, to select and reduce fthe eature list as we have a high number of features in this dataset so we used two other techniques for feature selection and elimination.
+<br>Used PCA with scatter plot results to visualize the variance explained by principal components or other patterns for reduced dimensions. But since new PCA components are created using all features, there could be a possibility of data loss and would require transforming input features to PCA components again for prediction. Hence, to select and reduce feature list as we have a high number of features in this dataset so we used two other techniques for feature selection and elimination.
 
 <img width="1030" alt="image" src="https://github.com/user-attachments/assets/75098a17-f9ed-4023-996b-50d7b4616893" />
 <img width="914" alt="image" src="https://github.com/user-attachments/assets/132ae9a5-cb06-4b9a-bb43-033ef3cbbe5b" />
@@ -99,10 +99,10 @@ This project aims to analyse DNA codon usage frequencies across various biologic
 5. Naive Bayes (NB) 
 
 <br>**Advanced models used:**
-6. XGBoost
-7. Extreme Learning Machine (ELM)
-8. A simple deep learning model with two layers
-9. An ensemble model
+<br>6. XGBoost
+<br>7. Extreme Learning Machine (ELM)
+<br>8. A simple deep learning model with two layers
+<br>9. An ensemble model
 
 **Hyperparamter tuning:**
 <br>•	Boosts performance and prevents overfitting and underfitting.
